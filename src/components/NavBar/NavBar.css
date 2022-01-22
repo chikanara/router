@@ -1,0 +1,13 @@
+.menu{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #000;
+    color: #fff;
+    height: 60px;
+    margin-top: 0;
+}
+.menu-item{
+    list-style: none;
+    cursor: pointer;
+}
